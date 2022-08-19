@@ -1,5 +1,5 @@
-# Tweakin-Resource-Pack
-Default resource pack for tweakin spigot plugin
+# YingaGaming Resource Pack
+Based on the Tweakin pack
 
 To download the pack 
 * click on green color code button
